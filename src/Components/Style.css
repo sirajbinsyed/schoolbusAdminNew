@@ -1,0 +1,164 @@
+
+
+.body {
+ background-color: white;
+ width: 100%;
+ height: 100%;
+ display: -webkit-inline-flex;
+ align-items: center;
+ justify-content: center;
+ font-size: small;
+}
+.containerHome {
+    background-color: #DDDDDD;
+    width: 70%;
+    height: 70%;
+    border-radius: 0.5rem;
+    
+    align-items: center;
+    justify-content: center;
+
+    padding: 10px;
+    margin-top: 5rem;
+    float: left;
+    overflow: auto;
+    overflow: hidden;
+   display: table; 
+}
+.containerTrack {
+    background-color: #DDDDDD;
+    width: 70%;
+    height: 70%;
+    border-radius: 0.5rem;
+    
+    align-items: center;
+    justify-content: center;
+
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin: 5rem;
+    float: left;
+    overflow: auto;
+    overflow: hidden;
+   display: table; 
+}
+.containerStaff {
+    background-color: #DDDDDD;
+    width: 70%;
+    height: 70%;
+    border-radius: 0.5rem;
+    
+    align-items: center;
+    justify-content: center;
+
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin-top: 10rem;
+    float: left;
+    overflow: auto;
+    overflow: hidden;
+   display: table; 
+}
+.containerStd {
+    background-color: #DDDDDD;
+    width: 70%;
+    height: 70%;
+    border-radius: 0.5rem;
+    
+    align-items: center;
+    justify-content: center;
+
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin-top: 10rem;
+    float: left;
+    overflow: auto;
+    overflow: hidden;
+   display: table; 
+}
+.containerAddbusroute {
+    background-color: #DDDDDD;
+    width: 70%;
+    height: 70%;
+    border-radius: 0.5rem;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin: 5rem;
+    float: left;
+    overflow: auto;
+    overflow: hidden;
+   display: table; 
+}
+.containerPayment {
+    background-color: #DDDDDD;
+    width: 70%;
+    height: 70%;
+    border-radius: 0.5rem;
+    
+    align-items: center;
+    justify-content: center;
+
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin: 5rem;
+    float: left;
+    overflow: auto;
+    overflow: hidden;
+   display: table; 
+}
+.container2 {
+    background-color: white;
+    width: 90%;
+    height: 50%;
+    border-radius: 00.5rem;
+    margin: 1.5rem;
+    border: .5px solid rgba(53, 52, 52, 0.8);
+    
+    font-size: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+img {
+    width: 100%;
+    height: 100%;
+    
+}
+
+/* home */
+
+.containerHome1 {
+    background-color: #DDDDDD;
+    width: 60%;
+    height: 100%;
+    border-radius: 0.5rem;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin-top: 10rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+    
+}
+.container2Home {
+    background-color: rgb(94, 110, 138);
+    width: 40%;
+    height: 70%;
+    border-radius: 00.5rem;
+    margin: 1.5rem;
+    border: .5px solid rgba(53, 52, 52, 0.8);
+    font-size: 7px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    margin-left: 6rem;
+   
+    
+    
+}
